@@ -18,6 +18,18 @@
   height: 10rem;
 }
 
+/* .logoPE {
+  height: 9rem;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.logoCOS {
+  height: 10rem;
+} */
+
 /*****************************/
 /* NAVIGATION */
 /*****************************/
@@ -107,14 +119,14 @@
   max-width: 100rem;
   margin: auto;
   padding: 0 3.2rem;
-  display: grid;
-  grid-template-columns: 1fr;
+  /* display: grid;
+  grid-template-columns: 1fr; */
   gap: 9.6rem;
   align-items: center;
 }
 
 .hero-img {
-  width: 65%;
+  width: 90%;
 }
 
 .delivered-meals {
